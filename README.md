@@ -1,2 +1,2 @@
 # Prueba-Git
-Git con pagina supermercado 
+Repositorio con pagina supermercado 
